@@ -1,0 +1,10 @@
+{
+  "name": "unipay",
+  "version": "0.1.0",
+  "description": "Unified payment SDK",
+  "main": "index.js",
+  "repository": "https://github.com/jimzhan/unipay",
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "private": false
+}
